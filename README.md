@@ -21,4 +21,4 @@ the project will plan for the upcoming influenza season.
 **Project deliverables**
 
 - Interim report 
-- Storytelling and data presentation with Tableau : [Here]([url](https://public.tableau.com/app/profile/m.lissa.tour./viz/Influenzastorytellling_16934075586500/Story2)https://public.tableau.com/app/profile/m.lissa.tour./viz/Influenzastorytellling_16934075586500/Story2)
+- Storytelling and data presentation with Tableau : [here](https://public.tableau.com/app/profile/m.lissa.tour./viz/Influenzastorytellling_16934075586500/Story2)
