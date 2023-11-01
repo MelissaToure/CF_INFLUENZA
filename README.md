@@ -18,4 +18,7 @@ staff.
 - **Scope**: The agency covers all hospitals in each of the 50 states of the United States, and
 the project will plan for the upcoming influenza season.
 
-> Link to tableau vizualisation : https://public.tableau.com/app/profile/m.lissa.tour./viz/Influenzastorytellling_16934075586500/Story2
+**Project deliverables**
+
+- Interim report 
+- Storytelling and data presentation with Tableau : [Here]([url](https://public.tableau.com/app/profile/m.lissa.tour./viz/Influenzastorytellling_16934075586500/Story2)https://public.tableau.com/app/profile/m.lissa.tour./viz/Influenzastorytellling_16934075586500/Story2)
